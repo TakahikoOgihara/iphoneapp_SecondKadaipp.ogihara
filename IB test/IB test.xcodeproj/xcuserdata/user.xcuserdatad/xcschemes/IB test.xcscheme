@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE7A12E81FCC0E3800318215"
-               BuildableName = "UItest.app"
-               BlueprintName = "UItest"
-               ReferencedContainer = "container:UItest.xcodeproj">
+               BlueprintIdentifier = "CE7A13061FCC5BAA00318215"
+               BuildableName = "IB test.app"
+               BlueprintName = "IB test"
+               ReferencedContainer = "container:IB test.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE7A12E81FCC0E3800318215"
-            BuildableName = "UItest.app"
-            BlueprintName = "UItest"
-            ReferencedContainer = "container:UItest.xcodeproj">
+            BlueprintIdentifier = "CE7A13061FCC5BAA00318215"
+            BuildableName = "IB test.app"
+            BlueprintName = "IB test"
+            ReferencedContainer = "container:IB test.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE7A12E81FCC0E3800318215"
-            BuildableName = "UItest.app"
-            BlueprintName = "UItest"
-            ReferencedContainer = "container:UItest.xcodeproj">
+            BlueprintIdentifier = "CE7A13061FCC5BAA00318215"
+            BuildableName = "IB test.app"
+            BlueprintName = "IB test"
+            ReferencedContainer = "container:IB test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE7A12E81FCC0E3800318215"
-            BuildableName = "UItest.app"
-            BlueprintName = "UItest"
-            ReferencedContainer = "container:UItest.xcodeproj">
+            BlueprintIdentifier = "CE7A13061FCC5BAA00318215"
+            BuildableName = "IB test.app"
+            BlueprintName = "IB test"
+            ReferencedContainer = "container:IB test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
